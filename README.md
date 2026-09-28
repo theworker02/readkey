@@ -1,0 +1,24 @@
+# readkey
+
+Read URLs and key query parts with stable normalization.
+
+**Site:** https://theworker02.github.io/readkey/
+
+## Install / run
+
+```bash
+git clone https://github.com/theworker02/readkey.git
+cd readkey
+node src/cli.js
+node --test
+```
+
+## API
+
+Library entrypoint: [`src/index.js`](./src/index.js)
+
+Category: `url` · Version `1.0.0`
+
+## License
+
+MIT — see [LICENSE](./LICENSE).
